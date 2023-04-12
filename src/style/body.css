@@ -1,0 +1,45 @@
+.signin-panel{
+     /* border:solid; */
+    border-radius:4px;
+    width:25vw;
+    position:relative;
+    left:38%;
+    padding:50px;
+    background-color: rgba(0,0,0,.75); ;
+}
+.signin{
+    font-weight: 500;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.form{
+    margin-bottom:50px;
+}
+.input-field{
+    display:block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    height: 45px;
+    width:100%;
+
+}
+.help{
+    display:inline;
+    float: right;
+}
+.lower-signin-panel{
+    color: #737373;
+    font-size: 16px;
+    font-weight: 400;
+}
+.link-white{
+    display: inline;
+    color:white;
+}
+.link-blue{
+    display: inline;
+    color:blue;
+}
+.disclaimer{
+    font-size: 12px;
+}
